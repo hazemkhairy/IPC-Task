@@ -1,0 +1,6 @@
+﻿  slave.cpp
+C:\Users\hazem\Source\Repos\IPC-task\slave\slave.cpp(139,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hazem\Source\Repos\IPC-task\slave\slave.cpp(156,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hazem\Source\Repos\IPC-task\slave\slave.cpp(375,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\hazem\Source\Repos\IPC-task\slave\slave.cpp(407,22): warning C4018: '<': signed/unsigned mismatch
+  slave.vcxproj -> C:\Users\hazem\Source\Repos\IPC-task\Debug\slave.exe

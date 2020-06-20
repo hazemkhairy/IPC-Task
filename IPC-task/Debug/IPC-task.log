@@ -1,0 +1,4 @@
+﻿  IPC-task.cpp
+  The contents of <filesystem> are only available with C++17 or later.
+C:\Users\hazem\Source\Repos\IPC-task\IPC-task\IPC-task.cpp(107,20): warning C4018: '<': signed/unsigned mismatch
+  IPC-task.vcxproj -> C:\Users\hazem\Source\Repos\IPC-task\Debug\IPC-task.exe
